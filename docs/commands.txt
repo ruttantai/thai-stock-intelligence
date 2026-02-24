@@ -1,0 +1,5 @@
+# start flask api
+uvicorn app.main:app --reload
+
+# login to database
+supabase login
