@@ -1,4 +1,4 @@
-# Investor Behavior & Exit Risk Intelligence  
+# Investor Behavior & Exit Risk Intelligence (Discontinued) 
 ### For Thai Equity Markets
 
 A Thailand-focused analytics application that provides structured insights into **investor behavior, capital flows, and exit risk conditions** in Thai listed stocks.
